@@ -1,4 +1,4 @@
-### Hi there 👋
+### I thrive in the realm of web development, fueled by a passion for technology, and possess a concise understanding of Data Structures and Algorithms (DSA) 👋
 
 <!--
 **GAURANG-21/GAURANG-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
