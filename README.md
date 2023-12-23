@@ -1,5 +1,7 @@
 ### I thrive in the realm of web development, fueled by a passion for technology, and possess a concise understanding of Data Structures and Algorithms (DSA) 👋
 
+
+[![An image of @gaurang21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gaurang21)](https://holopin.io/@gaurang21)
 <!--
 **GAURANG-21/GAURANG-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
